@@ -1,7 +1,5 @@
 class
 vaoid main{java}
 performance
-{
-sub
-}
+khajapeer
 add two numbers
